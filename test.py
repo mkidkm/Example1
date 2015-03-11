@@ -1,4 +1,5 @@
 def f():
-   return 1
-   
+   a =10
+  
    print("hello world")
+   return a
